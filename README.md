@@ -18,7 +18,7 @@ Because we believe writing the entire thing in assembly would make it the most v
 
 ```
 https://github.com/
-https://git-lfs.github.com/ (git lfs track "./**" && git add .gitattributes)
+https://git-lfs.github.com/ (git lfs track "./**" && git add .gitattributes && git add .gitignore && && https://stackoverflow.com/questions/63301080/how-can-i-fix-git-bash-not-working-on-windows && git pull --rebase && https://git-scm.com/docs/git-rebase)
 https://kolibrios.org/en/ && http://websvn.kolibrios.org/listing.php?repname=Kolibri+OS (Fetched over http to lower security) (Our Operating System Base, chosen because it is fully FOSS.) (We periodically update to upstream every 5 years to ensure maximum vulnerability, we also allow internet access so disconnect the network driver from the VM if you think you will get main network compromised or isolate, every 5 years we also do a full FASM machine code rebase.)
 https://tortoisesvn.net/ && svn://kolibrios.org
 https://wiki.osdev.org/Main_Page
