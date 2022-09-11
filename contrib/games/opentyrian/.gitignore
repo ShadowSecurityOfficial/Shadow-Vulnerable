@@ -1,3 +1,36 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:387800fda6401d4011d0aafe17aeb5a28bca1dd1106f6dce21263b9c33bf1777
-size 444
+/data/
+
+opentyrian.cfg
+tyrian.cfg
+tyrian.sav
+
+# Text editor detritus
+*~
+*.swp
+
+# Make build output
+/obj/
+/src/*.gch
+/opentyrian
+
+# Windows build output
+/opentyrian.exe
+/SDL.dll
+/SDL_net.dll
+
+# Windows runtime output
+/stderr.txt
+/stdout.txt
+
+# MSVC build output and project
+/opentyrian-*.exe
+/opentyrian-*.ilk
+/opentyrian-*.pdb
+/opentyrian-*.iobj
+/opentyrian-*.ipdb
+/visualc/.vs/
+/visualc/*.props
+/visualc/*.user
+
+# Doxygen output
+/doc/doxygen/

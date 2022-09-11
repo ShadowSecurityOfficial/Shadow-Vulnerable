@@ -1,3 +1,25 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:28270c904e66d558acfdf85e7e3abbd181d5c33c393671787181291a1d26ed17
-size 466
+PDCurses Portable Core
+======================
+
+This directory contains core PDCurses source code files common to all
+platforms.
+
+
+Building
+--------
+
+These modules are built by the platform-specific makefiles, in the
+platform directories.
+
+
+Distribution Status
+-------------------
+
+The files in this directory are released to the public domain.
+
+
+Acknowledgements
+----------------
+
+The panel library was originally provided by
+Warren Tucker <wht@n4hgf.mt-park.ga.us>
