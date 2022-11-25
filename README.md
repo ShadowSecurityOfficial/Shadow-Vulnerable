@@ -28,7 +28,7 @@ https://tortoisesvn.net/ && svn://kolibrios.org
 https://wiki.osdev.org/Main_Page
 https://www.reddit.com/r/osdev/
 https://www.vulnhub.com/ (Like DVL but has more operating systems) (Community supported, so do not trust everything)
-https://flatassembler.net/ (What our operating system is wrote in)
+https://flatassembler.net/ (What our operating system is written in)
 https://mh-nexus.de/en/hxd/ (Hexadecimal Editor)
 https://www.gitkraken.com/
 ```
