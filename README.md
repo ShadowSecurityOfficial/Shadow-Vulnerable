@@ -12,6 +12,10 @@ Treat this operating system as already compromised otherwise you likely will get
 
 Because we believe writing the entire thing in assembly would make it the most vulnerable and abstract due to being able to make more mistakes than higher level languages, therefore making it more vulnerable and also because this is a learning project for us. There is also another aspect we value, speed and while speed may not be the most important value in a vulnerable system it can make the difference in a low level attack as having speed in attacks allows you to work faster and smarter. Why did I not write this in machine code? I did not write this in true machine code because it offers little speed benefits over assembly.
 
+# Why does branding not have ShadowSecuritySuite Branding?
+
+We do not have ShadowSecuritySuite branding because we believe we should mimic an actual OS to ensure the most amount of malware infects the device due to thinking it is an actual user. We take snapshots of Kolibrios and build it to ensure the build is extremely outdated and vulnerable.
+
 # THANKS TO:
 
 💖 Made possible thanks to these projects 💖
